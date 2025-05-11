@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.risenid.caimanspoof'
+    namespace 'org.asp345.kakaotalktablet'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.risenid.caimanspoof"
+        applicationId "org.asp345.kakaotalktablet"
         minSdk 29
         targetSdk 34
         versionCode 1
